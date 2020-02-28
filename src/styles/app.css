@@ -1,0 +1,8 @@
+.red-text {
+    color: red;
+    font-weight: bolder;
+}
+#lastScoreLabel  {
+    color: green;
+    font-weight: bold;
+}
