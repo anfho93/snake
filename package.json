@@ -24,7 +24,7 @@
   "dependencies": {
     "jcanvas": "^21.0.1",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "rxjs": "6.4.0",
     "webpack": "^4.41.4"
   }
